@@ -3,8 +3,10 @@
 
 ## Write a short comment describing this function
 
-makeCacheMatrix <- function(x = matrix()) {
+## This is where I'll put my code
 
+makeCacheMatrix <- function(x = matrix()) {
+  print("Hello world")
 }
 
 
